@@ -145,6 +145,3 @@ Segitiga sembarang
 
 ---
 
-## 8. Kesimpulan
-
-Program berhasil menentukan jenis segitiga berdasarkan kesamaan panjang ketiga sisinya dengan menggunakan struktur kondisi **`if`**, **`elif`**, dan **`else`** pada Python.
