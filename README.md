@@ -1,7 +1,7 @@
 # Madiha-KELAS-3E-ALGORITMA-PEMOGRAMAN
 Tugas Algoritma Pemograman
 
-# 🧮 Menentukan Jenis Segitiga
+#  Menentukan Jenis Segitiga
 
 ## 1. Deskripsi Masalah
 
@@ -147,6 +147,6 @@ Segitiga sembarang
 
 
 
-8. Hasil Pengujian
+Hasil Pengujian 
 <img width="960" height="600" alt="Screenshot 2026-09-03 153923" src="https://github.com/user-attachments/assets/07359520-6902-47a0-b297-57c4397620b5" />
 
