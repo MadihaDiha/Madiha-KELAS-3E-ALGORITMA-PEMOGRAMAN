@@ -146,4 +146,5 @@ Segitiga sembarang
 ---
 
 
-<img width="960" height="600" alt="Screenshot 2026-09-03 153923" src="https://github.com/user-attachments/assets/02ff4161-4dad-4a4c-8f60-9de105534e24" />
+<img width="960" height="600" alt="Screenshot 2026-09-03 153923" src="https://github.com/user-attachments/assets/07359520-6902-47a0-b297-57c4397620b5" />
+
