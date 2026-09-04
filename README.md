@@ -152,5 +152,5 @@ Segitiga sembarang
 
 <img width="1600" height="900" alt="WhatsApp Image 2026-09-04 at 10 34 42 AM" src="https://github.com/user-attachments/assets/8f52a462-a116-4e0c-91d3-6b0edc310a6f" />
 
-<img width="1600" height="900" alt="WhatsApp Image 2026-09-04 at 10 34 42 AM" src="https://github.com/user-attachments/assets/e718ff56-5538-4cce-be31-c495348b2319" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-04 at 10 35 21 AM" src="https://github.com/user-attachments/assets/6a9d4e82-ca2e-417d-afa1-59a05549d677" />
 
