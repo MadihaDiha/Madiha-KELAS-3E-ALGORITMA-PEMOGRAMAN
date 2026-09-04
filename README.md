@@ -150,6 +150,6 @@ Segitiga sembarang
 
 ## 8. Hasil Pengujian
 
-<img width="960" height="600" alt="Screenshot 2026-09-03 215359" src="https://github.com/user-attachments/assets/f5a5482f-f04b-465c-a09e-a43462f94462" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-04 at 10 34 42 AM" src="https://github.com/user-attachments/assets/8f52a462-a116-4e0c-91d3-6b0edc310a6f" />
 
 
